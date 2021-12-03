@@ -1,7 +1,310 @@
 fileFormatVersion: 2
 guid: 4a22482586e7fa845b42c73815aea84a
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7413899949460596316
+    second: contre_enemy_assets_0
+  - first:
+      213: 5004013928191079317
+    second: contre_enemy_assets_1
+  - first:
+      213: 1732356330838480900
+    second: contre_enemy_assets_2
+  - first:
+      213: 8153576396864962013
+    second: contre_enemy_assets_3
+  - first:
+      213: 4361682401926944440
+    second: contre_enemy_assets_4
+  - first:
+      213: -5599841097755984016
+    second: contre_enemy_assets_5
+  - first:
+      213: 5388646217692664813
+    second: contre_enemy_assets_6
+  - first:
+      213: 6517515043564246019
+    second: contre_enemy_assets_7
+  - first:
+      213: -5021818445618986110
+    second: contre_enemy_assets_8
+  - first:
+      213: 2159926610238952451
+    second: contre_enemy_assets_9
+  - first:
+      213: 352458159457893797
+    second: contre_enemy_assets_10
+  - first:
+      213: 9127859048776693665
+    second: contre_enemy_assets_11
+  - first:
+      213: 8681101497016620861
+    second: contre_enemy_assets_12
+  - first:
+      213: -3451212124969512269
+    second: contre_enemy_assets_13
+  - first:
+      213: 7330483655504210981
+    second: contre_enemy_assets_14
+  - first:
+      213: 5427496778296098754
+    second: contre_enemy_assets_15
+  - first:
+      213: 1070722738881368081
+    second: contre_enemy_assets_16
+  - first:
+      213: -2352094894790051652
+    second: contre_enemy_assets_17
+  - first:
+      213: -940912535961148737
+    second: contre_enemy_assets_18
+  - first:
+      213: 3586783624509129137
+    second: contre_enemy_assets_19
+  - first:
+      213: 9223208770700845497
+    second: contre_enemy_assets_20
+  - first:
+      213: 2397889557701148319
+    second: contre_enemy_assets_21
+  - first:
+      213: 7863517137909118334
+    second: contre_enemy_assets_22
+  - first:
+      213: 8882785420476768522
+    second: contre_enemy_assets_23
+  - first:
+      213: -5328622962937551460
+    second: contre_enemy_assets_24
+  - first:
+      213: -469847265215813669
+    second: contre_enemy_assets_25
+  - first:
+      213: 689960785182060430
+    second: contre_enemy_assets_26
+  - first:
+      213: -1121399320967013562
+    second: contre_enemy_assets_27
+  - first:
+      213: 4351836568369629655
+    second: contre_enemy_assets_28
+  - first:
+      213: -9044956319930201322
+    second: contre_enemy_assets_29
+  - first:
+      213: 4464063220303850663
+    second: contre_enemy_assets_30
+  - first:
+      213: -668872817718396866
+    second: contre_enemy_assets_31
+  - first:
+      213: 8078159836417780018
+    second: contre_enemy_assets_32
+  - first:
+      213: 3872620466081283193
+    second: contre_enemy_assets_33
+  - first:
+      213: 7373201835720499777
+    second: contre_enemy_assets_34
+  - first:
+      213: -8388136037707067733
+    second: contre_enemy_assets_35
+  - first:
+      213: 3014021955204130738
+    second: contre_enemy_assets_36
+  - first:
+      213: 3571888718556505453
+    second: contre_enemy_assets_37
+  - first:
+      213: 7953778778590702626
+    second: contre_enemy_assets_38
+  - first:
+      213: 3825138594236711093
+    second: contre_enemy_assets_39
+  - first:
+      213: 2044843399320690481
+    second: contre_enemy_assets_40
+  - first:
+      213: 4030438092895666924
+    second: contre_enemy_assets_41
+  - first:
+      213: 1276279225565703474
+    second: contre_enemy_assets_42
+  - first:
+      213: 6473766198298848542
+    second: contre_enemy_assets_43
+  - first:
+      213: 6072025957773687195
+    second: contre_enemy_assets_44
+  - first:
+      213: 7977643024300729471
+    second: contre_enemy_assets_45
+  - first:
+      213: -6725328144514462279
+    second: contre_enemy_assets_46
+  - first:
+      213: 9006278303325009341
+    second: contre_enemy_assets_47
+  - first:
+      213: -1862327115417899710
+    second: contre_enemy_assets_48
+  - first:
+      213: 2268549911571383773
+    second: contre_enemy_assets_49
+  - first:
+      213: 5766982539198344607
+    second: contre_enemy_assets_50
+  - first:
+      213: -8412918521162795793
+    second: contre_enemy_assets_51
+  - first:
+      213: -419525531615347826
+    second: contre_enemy_assets_52
+  - first:
+      213: -2844779291768615985
+    second: contre_enemy_assets_53
+  - first:
+      213: -4661682421619989709
+    second: contre_enemy_assets_54
+  - first:
+      213: 1578909817561355272
+    second: contre_enemy_assets_55
+  - first:
+      213: -7571325568877410418
+    second: contre_enemy_assets_56
+  - first:
+      213: 3573237160548537031
+    second: contre_enemy_assets_57
+  - first:
+      213: -6171369475599563500
+    second: contre_enemy_assets_58
+  - first:
+      213: 6506294589806239544
+    second: contre_enemy_assets_59
+  - first:
+      213: 6223225400415841737
+    second: contre_enemy_assets_60
+  - first:
+      213: -7701068593691439376
+    second: contre_enemy_assets_61
+  - first:
+      213: -5300860685388734009
+    second: contre_enemy_assets_62
+  - first:
+      213: -1162656886225853324
+    second: contre_enemy_assets_63
+  - first:
+      213: 9089878048935894926
+    second: contre_enemy_assets_64
+  - first:
+      213: 3258436790440801765
+    second: contre_enemy_assets_65
+  - first:
+      213: -2663537305967594341
+    second: contre_enemy_assets_66
+  - first:
+      213: 4049085831735542807
+    second: contre_enemy_assets_67
+  - first:
+      213: 2558432544450291660
+    second: contre_enemy_assets_68
+  - first:
+      213: 7514694838423965976
+    second: contre_enemy_assets_69
+  - first:
+      213: 1727579777598680709
+    second: contre_enemy_assets_70
+  - first:
+      213: -4565325230166188020
+    second: contre_enemy_assets_71
+  - first:
+      213: -973234065206154312
+    second: contre_enemy_assets_72
+  - first:
+      213: -1441443206320621463
+    second: contre_enemy_assets_73
+  - first:
+      213: -4975886439005699822
+    second: contre_enemy_assets_74
+  - first:
+      213: -7185829083222016962
+    second: contre_enemy_assets_75
+  - first:
+      213: 1976025449561044026
+    second: contre_enemy_assets_76
+  - first:
+      213: 6635752044203936696
+    second: contre_enemy_assets_77
+  - first:
+      213: -1884056614553165590
+    second: contre_enemy_assets_78
+  - first:
+      213: 2240760380267947521
+    second: contre_enemy_assets_79
+  - first:
+      213: 1542346106488361304
+    second: contre_enemy_assets_80
+  - first:
+      213: -8303262151269739786
+    second: contre_enemy_assets_81
+  - first:
+      213: -1386483507281387878
+    second: contre_enemy_assets_82
+  - first:
+      213: 8683632990983048496
+    second: contre_enemy_assets_83
+  - first:
+      213: 4979742858023402698
+    second: contre_enemy_assets_84
+  - first:
+      213: -2586057077967925848
+    second: contre_enemy_assets_85
+  - first:
+      213: 4074333133959052061
+    second: contre_enemy_assets_86
+  - first:
+      213: 2831041147783724103
+    second: contre_enemy_assets_87
+  - first:
+      213: 8207029458717255294
+    second: contre_enemy_assets_88
+  - first:
+      213: -4562614356281472491
+    second: contre_enemy_assets_89
+  - first:
+      213: -5357654506609310389
+    second: contre_enemy_assets_90
+  - first:
+      213: 1045922393719584527
+    second: contre_enemy_assets_91
+  - first:
+      213: -7747752828467591730
+    second: contre_enemy_assets_92
+  - first:
+      213: -7612154906285529225
+    second: contre_enemy_assets_93
+  - first:
+      213: 2824390096997658424
+    second: contre_enemy_assets_94
+  - first:
+      213: 533937160545694708
+    second: contre_enemy_assets_95
+  - first:
+      213: 897527155403730955
+    second: contre_enemy_assets_96
+  - first:
+      213: 5550388187598503007
+    second: contre_enemy_assets_97
+  - first:
+      213: -8675353716494999533
+    second: contre_enemy_assets_98
+  - first:
+      213: -8029019750964157901
+    second: contre_enemy_assets_99
+  - first:
+      213: 287609874058205791
+    second: contre_enemy_assets_100
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +344,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +378,2142 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: contre_enemy_assets_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a95d18c6498c1990800000000000000
+      internalID: -7413899949460596316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 479
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593bfe0c724d17540800000000000000
+      internalID: 5004013928191079317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 479
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408d60c87e09a0810800000000000000
+      internalID: 1732356330838480900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd35209882572170800000000000000
+      internalID: 8153576396864962013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69ded090fc78c30800000000000000
+      internalID: 4361682401926944440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ffe99d03e5942b0800000000000000
+      internalID: -5599841097755984016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d2d94f2158ca40800000000000000
+      internalID: 5388646217692664813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 479
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30459ed966dd27a50800000000000000
+      internalID: 6517515043564246019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 479
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283406efabaee4ab0800000000000000
+      internalID: -5021818445618986110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 479
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d438eec999fd10800000000000000
+      internalID: 2159926610238952451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 443
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adfca024de24e400800000000000000
+      internalID: 352458159457893797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 443
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a77b22817bacae70800000000000000
+      internalID: 9127859048776693665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 443
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3799cc21d7797870800000000000000
+      internalID: 8681101497016620861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 443
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2dbae8bd4da10d0800000000000000
+      internalID: -3451212124969512269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 443
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ca22ecb0c1bb560800000000000000
+      internalID: 7330483655504210981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 443
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7ae15097525b40800000000000000
+      internalID: 5427496778296098754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 443
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11015f778a8fbde00800000000000000
+      internalID: 1070722738881368081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 443
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb87706b72eab5fd0800000000000000
+      internalID: -2352094894790051652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 443
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2e251a80531f2f0800000000000000
+      internalID: -940912535961148737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 443
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b10e01f3b0d6c130800000000000000
+      internalID: 3586783624509129137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 443
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b124e2a28b6fff70800000000000000
+      internalID: 9223208770700845497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 443
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e356129d3074120800000000000000
+      internalID: 2397889557701148319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 409
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f44a9c23d02d60800000000000000
+      internalID: 7863517137909118334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 409
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a016983e64ef54b70800000000000000
+      internalID: 8882785420476768522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 409
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c952e10c5adec06b0800000000000000
+      internalID: -5328622962937551460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 409
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76f12d664ca79f0800000000000000
+      internalID: -469847265215813669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 409
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fe9b5bdab339900800000000000000
+      internalID: 689960785182060430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 409
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b956e424dff60f0800000000000000
+      internalID: -1121399320967013562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d90a3a4d44d46c30800000000000000
+      internalID: 4351836568369629655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 375
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc2a5362cd97280800000000000000
+      internalID: -9044956319930201322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 375
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace815e8d983fd30800000000000000
+      internalID: 4464063220303850663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38faf357bfa7b6f0800000000000000
+      internalID: -668872817718396866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 348
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239628042936b1070800000000000000
+      internalID: 8078159836417780018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 348
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cbeaebbcf4eb530800000000000000
+      internalID: 3872620466081283193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 348
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e0633100e25660800000000000000
+      internalID: 7373201835720499777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 348
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae41d847ba579b80800000000000000
+      internalID: -8388136037707067733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ab21dff4f3d920800000000000000
+      internalID: 3014021955204130738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 348
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6529c66dd5e19130800000000000000
+      internalID: 3571888718556505453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 348
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c60ff78af716e60800000000000000
+      internalID: 7953778778590702626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 348
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0cd16f84f951530800000000000000
+      internalID: 3825138594236711093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 348
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fdfc5dc3eb06c10800000000000000
+      internalID: 2044843399320690481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 348
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2cf30671efee730800000000000000
+      internalID: 4030438092895666924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 348
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ded02913146b110800000000000000
+      internalID: 1276279225565703474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 348
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1da880de0077d950800000000000000
+      internalID: 6473766198298848542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 322
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993d08007b244450800000000000000
+      internalID: 6072025957773687195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 322
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746150301846be60800000000000000
+      internalID: 7977643024300729471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 322
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd47445fa5daa2a0800000000000000
+      internalID: -6725328144514462279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 322
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5bef9466abcfc70800000000000000
+      internalID: 9006278303325009341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 322
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d20f50b5fa726e0800000000000000
+      internalID: -1862327115417899710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 322
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c47210228b7f10800000000000000
+      internalID: 2268549911571383773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 322
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2cca8010780050800000000000000
+      internalID: 5766982539198344607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 322
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe479c5bd2f4f3b80800000000000000
+      internalID: -8412918521162795793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 322
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3cd170cb8d2af0800000000000000
+      internalID: -419525531615347826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb8eb17e405588d0800000000000000
+      internalID: -2844779291768615985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 322
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33368a349806e4fb0800000000000000
+      internalID: -4661682421619989709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 322
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8041f181d1a69e510800000000000000
+      internalID: 1578909817561355272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 272
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ca3c728f3de690800000000000000
+      internalID: -7571325568877410418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 272
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c298b40440b69130800000000000000
+      internalID: 3573237160548537031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 272
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4150335c824ea5aa0800000000000000
+      internalID: -6171369475599563500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 272
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f527525700b4a50800000000000000
+      internalID: 6506294589806239544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_60
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd69f497865d5650800000000000000
+      internalID: 6223225400415841737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 272
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feca128aee402590800000000000000
+      internalID: -7701068593691439376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_62
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c12293ba4f8f66b0800000000000000
+      internalID: -5300860685388734009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 272
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a8d4d8b96ddfe0800000000000000
+      internalID: -1162656886225853324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 272
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd17edcebb52e70800000000000000
+      internalID: 9089878048935894926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_65
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5b9493ffa483d20800000000000000
+      internalID: 3258436790440801765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 272
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94fcc7aee6390bd0800000000000000
+      internalID: -2663537305967594341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 241
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7140aa96c1e313830800000000000000
+      internalID: 4049085831735542807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 241
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc722c118d0618320800000000000000
+      internalID: 2558432544450291660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 241
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d8b7142f894860800000000000000
+      internalID: 7514694838423965976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 241
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eeae497a899f710800000000000000
+      internalID: 1727579777598680709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_71
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 241
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e0db24e4b4a0c0800000000000000
+      internalID: -4565325230166188020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_72
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 241
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe31c26c06e72f0800000000000000
+      internalID: -973234065206154312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 241
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968fb5b7a07fefbe0800000000000000
+      internalID: -1441443206320621463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 241
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c168a5a912fab0800000000000000
+      internalID: -4975886439005699822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_75
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 241
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c71ed558ec64c90800000000000000
+      internalID: -7185829083222016962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 241
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34b73c4da04c6b10800000000000000
+      internalID: 1976025449561044026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0954935de61c50800000000000000
+      internalID: 6635752044203936696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_78
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 207
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae065d0cd7c7ad5e0800000000000000
+      internalID: -1884056614553165590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 207
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e3ac91b7c81f10800000000000000
+      internalID: 2240760380267947521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85112f5bc93876510800000000000000
+      internalID: 1542346106488361304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21f94e013e4cc80800000000000000
+      internalID: -8303262151269739786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e1e85989832cce0800000000000000
+      internalID: -1386483507281387878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d486b8236728870800000000000000
+      internalID: 8683632990983048496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_84
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf54ddeb99b1540800000000000000
+      internalID: 4979742858023402698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad46d20aca7c1cd0800000000000000
+      internalID: -2586057077967925848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_86
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbb3a0660fa8830800000000000000
+      internalID: 4074333133959052061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb926ace0e94720800000000000000
+      internalID: 2831041147783724103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_88
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76220c5fc935e170800000000000000
+      internalID: 8207029458717255294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 139
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51acebeaa665ea0c0800000000000000
+      internalID: -4562614356281472491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 139
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450840cc99c5a5b0800000000000000
+      internalID: -5357654506609310389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 139
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07384420ecd38e00800000000000000
+      internalID: 1045922393719584527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 139
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec549a31ad37a7490800000000000000
+      internalID: -7747752828467591730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777aa9391713c5690800000000000000
+      internalID: -7612154906285529225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_94
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 139
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2da634df323720800000000000000
+      internalID: 2824390096997658424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_95
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 119
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f4b2c40de86700800000000000000
+      internalID: 533937160545694708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_96
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 119
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b003b1a4138a47c00800000000000000
+      internalID: 897527155403730955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_97
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 119
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c355f36a0f60d40800000000000000
+      internalID: 5550388187598503007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310637342c3fa9780800000000000000
+      internalID: -8675353716494999533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332af297311339090800000000000000
+      internalID: -8029019750964157901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: contre_enemy_assets_100
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a522918abcdf300800000000000000
+      internalID: 287609874058205791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
