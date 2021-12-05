@@ -6,6 +6,7 @@ public class PlayerControl : MonoBehaviour
 {
     Transform trans;
     Rigidbody2D body;
+    Animator anim; 
 
     [SerializeField] float _speed;
     [SerializeField] float _jumpForce;
@@ -23,12 +24,14 @@ public class PlayerControl : MonoBehaviour
     float timeToNextShot = 0;
     //float playerGravity = 15f;
 
+ 
 
     // Start is called before the first frame update
     void Start()
     {
         trans = GetComponent<Transform>();
         body = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -41,11 +44,14 @@ public class PlayerControl : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.W))
             {
                 _jumpInput = true;
+                 anim.SetBool("Jump", true);
+
             }
             if (Input.GetKeyUp(KeyCode.W))
             {
                 _jumpInput = false;
-            }
+                anim.SetBool("Jump", false);
+        }
             if (Input.GetKey(KeyCode.Space) && CanShoot())
             {
                 Shoot();
@@ -63,7 +69,7 @@ public class PlayerControl : MonoBehaviour
         {
             Jump();
         }
-
+        
     }
 
 
@@ -74,14 +80,25 @@ public class PlayerControl : MonoBehaviour
         {
             transform.position += transform.right * Time.deltaTime * _speed;
             transform.rotation = Quaternion.Euler(0, 0, 0);
-            //isWalking = true;
+            anim.SetBool("Running", true);
+           
         }
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKeyUp(KeyCode.D))
+        {
+            anim.SetBool("Running", false);
+        }
+
+         if (Input.GetKey(KeyCode.A))
         {
             transform.position += transform.right * Time.deltaTime * _speed;
             transform.rotation = Quaternion.Euler(0, 180, 0);
-            //isWalking = true;
+            anim.SetBool("Running", true);
         }
+        if (Input.GetKeyUp(KeyCode.A))
+        {
+            anim.SetBool("Running", false);
+        }
+
 
         //if (!Input.GetKey(KeyCode.A) && !Input.GetKey(KeyCode.D))
         {
@@ -93,17 +110,25 @@ public class PlayerControl : MonoBehaviour
     {
         body.AddForce(transform.up * _jumpForce, ForceMode2D.Impulse);
         isGrounded = false;
+        
+
+        
     }
 
     void Shoot()
     {
+
+       
+
         var bullet = Instantiate(_bulletPrefab, _bulletSpawn.position, Quaternion.Euler(new Vector3(0, 0, 90)));
 
-        bullet.GetComponent<Rigidbody2D>().velocity = transform.right * _bulletSpeed;
+        bullet.GetComponent<Rigidbody2D>().velocity= transform.right * _bulletSpeed;
 
         Destroy(bullet, 1);
 
     }
+   
+
 
 
     bool CanShoot()
@@ -133,6 +158,9 @@ public class PlayerControl : MonoBehaviour
         }
 
     }
+
+
+
 
      // public float GetSpeed()
     
