@@ -6,7 +6,7 @@ public class CameraController : MonoBehaviour
 {
     [SerializeField] Transform targetView;
 
-    [SerializeField] float maxUp, maxDown, maxLeft, maxRight;
+    [SerializeField] float minX, maxX, minY, maxY;
 
     public Vector3 offset;
     // Start is called before the first frame update
@@ -19,9 +19,12 @@ public class CameraController : MonoBehaviour
     void Update()
     {
         //Follow target's x position
-
         transform.position = targetView.position + offset;
 
-        //transform.position = new Vector3(targetView.position.x, transform.position.y, transform.position.z);
+        float cutoffX = Mathf.Clamp(transform.position.x, minX, maxX);
+        float cutoffY = Mathf.Clamp(transform.position.y, minY, maxX);
+
+        transform.position = new Vector3(cutoffX, cutoffY, transform.position.z) + offset;
     }
 }
+ 

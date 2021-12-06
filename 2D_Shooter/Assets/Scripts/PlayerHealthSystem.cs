@@ -4,13 +4,17 @@ using UnityEngine;
 
 public class PlayerHealthSystem : MonoBehaviour
 {
+    public int maxHealth, currentHealth;
 
-    int maxHealth;
-    int currentHealth;
-
+    GameObject healthBar;
     void Start()
     {
         currentHealth = maxHealth;
+    }
+
+    void Update()
+    {
+        
     }
 
     public void DamageHealth()
