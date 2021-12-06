@@ -8,7 +8,7 @@ public class DamagePlayer : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-           // Debug.Log("Ouch");
+            Debug.Log("Ouch");
 
             FindObjectOfType<PlayerHealthSystem>().DamageHealth();
         }

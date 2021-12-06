@@ -14,41 +14,11 @@ public class PlayerHealthSystem : MonoBehaviour
     {
         currentHealth = maxHealth;
     }
-    
+
     void Update()
     {
-        if (Input.GetKeyUp(KeyCode.P))
-        {
-            currentHealth -= 1;
-            switch (currentHealth)
-            {
-                case 3:
-                    HP3.SetActive(true);
-                    HP2.SetActive(false);
-                    HP1.SetActive(false);
-                    break;
-
-                case 2:
-                    HP3.SetActive(false);
-                    HP2.SetActive(true);
-                    HP1.SetActive(false);
-                    break;
-
-                case 1:
-                    HP3.SetActive(false);
-                    HP2.SetActive(false);
-                    HP1.SetActive(true);
-                    break;
-
-                default:
-                    HP3.SetActive(false);
-                    HP2.SetActive(false);
-                    HP1.SetActive(false);
-                    break;
-            }
-        }
+        
     }
-
     public void DamageHealth()
     {
         currentHealth -= 1;
