@@ -1,0 +1,2700 @@
+fileFormatVersion: 2
+guid: 9c75045937f7e4a4e8c3fc742591f5cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7953164498323923908
+    second: Wii - Contra ReBirth - Explosions_0
+  - first:
+      213: -4094031135583621841
+    second: Wii - Contra ReBirth - Explosions_1
+  - first:
+      213: 2853765818070536710
+    second: Wii - Contra ReBirth - Explosions_2
+  - first:
+      213: 1805261778863585498
+    second: Wii - Contra ReBirth - Explosions_3
+  - first:
+      213: -3011809629307531632
+    second: Wii - Contra ReBirth - Explosions_4
+  - first:
+      213: -1155500901379339982
+    second: Wii - Contra ReBirth - Explosions_5
+  - first:
+      213: 1612278536176525543
+    second: Wii - Contra ReBirth - Explosions_6
+  - first:
+      213: 6997815841782056959
+    second: Wii - Contra ReBirth - Explosions_7
+  - first:
+      213: 5831553987080296407
+    second: Wii - Contra ReBirth - Explosions_8
+  - first:
+      213: -1247985786088213270
+    second: Wii - Contra ReBirth - Explosions_9
+  - first:
+      213: 7169362304122473793
+    second: Wii - Contra ReBirth - Explosions_10
+  - first:
+      213: 2868647799138213138
+    second: Wii - Contra ReBirth - Explosions_11
+  - first:
+      213: -3594555643184939677
+    second: Wii - Contra ReBirth - Explosions_12
+  - first:
+      213: 2866169425033831106
+    second: Wii - Contra ReBirth - Explosions_13
+  - first:
+      213: 7821295212787423784
+    second: Wii - Contra ReBirth - Explosions_14
+  - first:
+      213: -2760622235482313528
+    second: Wii - Contra ReBirth - Explosions_15
+  - first:
+      213: -467235613442899069
+    second: Wii - Contra ReBirth - Explosions_16
+  - first:
+      213: 460102241397288113
+    second: Wii - Contra ReBirth - Explosions_17
+  - first:
+      213: -7615923128590529597
+    second: Wii - Contra ReBirth - Explosions_18
+  - first:
+      213: 8993376265188770386
+    second: Wii - Contra ReBirth - Explosions_19
+  - first:
+      213: 4841274986952783590
+    second: Wii - Contra ReBirth - Explosions_20
+  - first:
+      213: 5872015330688047505
+    second: Wii - Contra ReBirth - Explosions_21
+  - first:
+      213: 8922075504428605856
+    second: Wii - Contra ReBirth - Explosions_22
+  - first:
+      213: -1159366200101613394
+    second: Wii - Contra ReBirth - Explosions_23
+  - first:
+      213: -8918242235587958299
+    second: Wii - Contra ReBirth - Explosions_24
+  - first:
+      213: 1337894538064362339
+    second: Wii - Contra ReBirth - Explosions_25
+  - first:
+      213: -931323946045745198
+    second: Wii - Contra ReBirth - Explosions_26
+  - first:
+      213: 7902470115514229400
+    second: Wii - Contra ReBirth - Explosions_27
+  - first:
+      213: 541423782973678265
+    second: Wii - Contra ReBirth - Explosions_28
+  - first:
+      213: -1360389524963706277
+    second: Wii - Contra ReBirth - Explosions_29
+  - first:
+      213: -4763133974027340888
+    second: Wii - Contra ReBirth - Explosions_30
+  - first:
+      213: -2875050175233880179
+    second: Wii - Contra ReBirth - Explosions_31
+  - first:
+      213: -8445408413594777092
+    second: Wii - Contra ReBirth - Explosions_32
+  - first:
+      213: -8199817644683740162
+    second: Wii - Contra ReBirth - Explosions_33
+  - first:
+      213: -3182691349590856234
+    second: Wii - Contra ReBirth - Explosions_34
+  - first:
+      213: 2971873985729491770
+    second: Wii - Contra ReBirth - Explosions_35
+  - first:
+      213: -1404982872335350279
+    second: Wii - Contra ReBirth - Explosions_36
+  - first:
+      213: 9074644409925963147
+    second: Wii - Contra ReBirth - Explosions_37
+  - first:
+      213: -2795890175676532905
+    second: Wii - Contra ReBirth - Explosions_38
+  - first:
+      213: 277130152338588868
+    second: Wii - Contra ReBirth - Explosions_39
+  - first:
+      213: 7817883109234919255
+    second: Wii - Contra ReBirth - Explosions_40
+  - first:
+      213: -8794349269479911097
+    second: Wii - Contra ReBirth - Explosions_41
+  - first:
+      213: -6825314961201863590
+    second: Wii - Contra ReBirth - Explosions_42
+  - first:
+      213: -5142018243244422929
+    second: Wii - Contra ReBirth - Explosions_43
+  - first:
+      213: -5789000870800203512
+    second: Wii - Contra ReBirth - Explosions_44
+  - first:
+      213: 4627612944072339162
+    second: Wii - Contra ReBirth - Explosions_45
+  - first:
+      213: 8882006521483331869
+    second: Wii - Contra ReBirth - Explosions_46
+  - first:
+      213: -2553710688852313532
+    second: Wii - Contra ReBirth - Explosions_47
+  - first:
+      213: 4806951448306410749
+    second: Wii - Contra ReBirth - Explosions_48
+  - first:
+      213: 6602830089275279205
+    second: Wii - Contra ReBirth - Explosions_49
+  - first:
+      213: -8653518497733501381
+    second: Wii - Contra ReBirth - Explosions_50
+  - first:
+      213: 4007300086450637310
+    second: Wii - Contra ReBirth - Explosions_51
+  - first:
+      213: 6681578987689274752
+    second: Wii - Contra ReBirth - Explosions_52
+  - first:
+      213: -8640905071223172106
+    second: Wii - Contra ReBirth - Explosions_53
+  - first:
+      213: 491360803150867369
+    second: Wii - Contra ReBirth - Explosions_54
+  - first:
+      213: -8208631932993022199
+    second: Wii - Contra ReBirth - Explosions_55
+  - first:
+      213: -6137970753789375472
+    second: Wii - Contra ReBirth - Explosions_56
+  - first:
+      213: 5650350531220388297
+    second: Wii - Contra ReBirth - Explosions_57
+  - first:
+      213: -3849764470360944006
+    second: Wii - Contra ReBirth - Explosions_58
+  - first:
+      213: 1751957250277102037
+    second: Wii - Contra ReBirth - Explosions_59
+  - first:
+      213: 7624741265121812225
+    second: Wii - Contra ReBirth - Explosions_60
+  - first:
+      213: 6598862422088135031
+    second: Wii - Contra ReBirth - Explosions_61
+  - first:
+      213: -6712702477184300752
+    second: Wii - Contra ReBirth - Explosions_62
+  - first:
+      213: -9141704555551373981
+    second: Wii - Contra ReBirth - Explosions_63
+  - first:
+      213: -9152663732843920653
+    second: Wii - Contra ReBirth - Explosions_64
+  - first:
+      213: 3426901930329288215
+    second: Wii - Contra ReBirth - Explosions_65
+  - first:
+      213: 3788681529196519994
+    second: Wii - Contra ReBirth - Explosions_66
+  - first:
+      213: 2387575319345714205
+    second: Wii - Contra ReBirth - Explosions_67
+  - first:
+      213: 5915766492169863880
+    second: Wii - Contra ReBirth - Explosions_68
+  - first:
+      213: -2706242900852740585
+    second: Wii - Contra ReBirth - Explosions_69
+  - first:
+      213: -7394802106244500585
+    second: Wii - Contra ReBirth - Explosions_70
+  - first:
+      213: 3122350298864455931
+    second: Wii - Contra ReBirth - Explosions_71
+  - first:
+      213: -4532464047190170592
+    second: Wii - Contra ReBirth - Explosions_72
+  - first:
+      213: 7254107450145900806
+    second: Wii - Contra ReBirth - Explosions_73
+  - first:
+      213: -1221479931025002738
+    second: Wii - Contra ReBirth - Explosions_74
+  - first:
+      213: 9072543541065394681
+    second: Wii - Contra ReBirth - Explosions_75
+  - first:
+      213: -7295075596622187786
+    second: Wii - Contra ReBirth - Explosions_76
+  - first:
+      213: -5483716213187831421
+    second: Wii - Contra ReBirth - Explosions_77
+  - first:
+      213: 8439548777836181733
+    second: Wii - Contra ReBirth - Explosions_78
+  - first:
+      213: -6479194048811619376
+    second: Wii - Contra ReBirth - Explosions_79
+  - first:
+      213: 6275214579013070557
+    second: Wii - Contra ReBirth - Explosions_80
+  - first:
+      213: -776855868787048749
+    second: Wii - Contra ReBirth - Explosions_81
+  - first:
+      213: -4506969245363922294
+    second: Wii - Contra ReBirth - Explosions_82
+  - first:
+      213: -6922886579101291362
+    second: Wii - Contra ReBirth - Explosions_83
+  - first:
+      213: 7240394785959244493
+    second: Wii - Contra ReBirth - Explosions_84
+  - first:
+      213: 3330103612062518457
+    second: Wii - Contra ReBirth - Explosions_85
+  - first:
+      213: 6803859817289910259
+    second: Wii - Contra ReBirth - Explosions_86
+  - first:
+      213: 1133639104047631964
+    second: Wii - Contra ReBirth - Explosions_87
+  - first:
+      213: -3649750809696997883
+    second: Wii - Contra ReBirth - Explosions_88
+  - first:
+      213: -1942898234419913507
+    second: Wii - Contra ReBirth - Explosions_89
+  - first:
+      213: 2680575625771560164
+    second: Wii - Contra ReBirth - Explosions_90
+  - first:
+      213: 4150783009955117985
+    second: Wii - Contra ReBirth - Explosions_91
+  - first:
+      213: -7761086361289642551
+    second: Wii - Contra ReBirth - Explosions_92
+  - first:
+      213: -4752962903034922395
+    second: Wii - Contra ReBirth - Explosions_93
+  - first:
+      213: 7774489729971822124
+    second: Wii - Contra ReBirth - Explosions_94
+  - first:
+      213: -2710240280848493835
+    second: Wii - Contra ReBirth - Explosions_95
+  - first:
+      213: 6923255192803644733
+    second: Wii - Contra ReBirth - Explosions_96
+  - first:
+      213: 9064226836866812782
+    second: Wii - Contra ReBirth - Explosions_97
+  - first:
+      213: 289518924830887152
+    second: Wii - Contra ReBirth - Explosions_98
+  - first:
+      213: -1633736921912628861
+    second: Wii - Contra ReBirth - Explosions_99
+  - first:
+      213: 473486530363140330
+    second: Wii - Contra ReBirth - Explosions_100
+  - first:
+      213: 72297341140348432
+    second: Wii - Contra ReBirth - Explosions_101
+  - first:
+      213: 8200986902398348031
+    second: Wii - Contra ReBirth - Explosions_102
+  - first:
+      213: 8600624993108771424
+    second: Wii - Contra ReBirth - Explosions_103
+  - first:
+      213: -4832425498251548650
+    second: Wii - Contra ReBirth - Explosions_104
+  - first:
+      213: -8476253493438731353
+    second: Wii - Contra ReBirth - Explosions_105
+  - first:
+      213: -4531459166452251348
+    second: Wii - Contra ReBirth - Explosions_106
+  - first:
+      213: 9016697642371802117
+    second: Wii - Contra ReBirth - Explosions_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9725c60fa0a190800000000000000
+      internalID: -7953164498323923908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d26209f541f27c0800000000000000
+      internalID: -4094031135583621841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021f3244ec9a9720800000000000000
+      internalID: 2853765818070536710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f0cfe5049d0910800000000000000
+      internalID: 1805261778863585498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e06027917e336d0800000000000000
+      internalID: -3011809629307531632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23904a36d06d6ffe0800000000000000
+      internalID: -1155500901379339982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e9c359c6ff5610800000000000000
+      internalID: 1612278536176525543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7450d9e6c3d1160800000000000000
+      internalID: 6997815841782056959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71f605477dde050800000000000000
+      internalID: 5831553987080296407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4b9772a834eaee0800000000000000
+      internalID: -1247985786088213270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dcb4bd701be7360800000000000000
+      internalID: 7169362304122473793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dd65d79fb7fc720800000000000000
+      internalID: 2868647799138213138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df592ffa29d1ec0800000000000000
+      internalID: -3594555643184939677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22a3d08eda6c720800000000000000
+      internalID: 2866169425033831106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a58a99e82da8c60800000000000000
+      internalID: 7821295212787423784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc280704bc40b9d0800000000000000
+      internalID: -2760622235482313528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38303526fab0489f0800000000000000
+      internalID: -467235613442899069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca8d20d8c926600800000000000000
+      internalID: 460102241397288113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb0ea3f34ece4690800000000000000
+      internalID: -7615923128590529597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25281027014eecc70800000000000000
+      internalID: 8993376265188770386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6fd4153f9af2340800000000000000
+      internalID: 4841274986952783590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991f4df4d69d7150800000000000000
+      internalID: 5872015330688047505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_22
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 203
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a16eac666491db70800000000000000
+      internalID: 8922075504428605856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05956659a19efe0800000000000000
+      internalID: -1159366200101613394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e4e600f90c3480800000000000000
+      internalID: -8918242235587958299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf2407ef7219210800000000000000
+      internalID: 1337894538064362339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7d0213ec54313f0800000000000000
+      internalID: -931323946045745198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892ad5373b63bad60800000000000000
+      internalID: 7902470115514229400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b22811ef06838700800000000000000
+      internalID: 541423782973678265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a30684fecee1de0800000000000000
+      internalID: -1360389524963706277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 169
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3718403e2f5edb0800000000000000
+      internalID: -4763133974027340888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f82c92915c918d0800000000000000
+      internalID: -2875050175233880179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf986942bc1ebca80800000000000000
+      internalID: -8445408413594777092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb35a1fb45643e80800000000000000
+      internalID: -8199817644683740162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddade5841fc4d3d0800000000000000
+      internalID: -3182691349590856234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3371a4f4a73e3920800000000000000
+      internalID: 2971873985729491770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f581f2858f708ce0800000000000000
+      internalID: -1404982872335350279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d0f94e20d9fed70800000000000000
+      internalID: 9074644409925963147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757bbcfc2b00339d0800000000000000
+      internalID: -2795890175676532905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_39
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 111
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c401beb76098d300800000000000000
+      internalID: 277130152338588868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75749755443be7c60800000000000000
+      internalID: 7817883109234919255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411fe11fe134f580800000000000000
+      internalID: -8794349269479911097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546761743c9741a0800000000000000
+      internalID: -6825314961201863590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe886deb6a1e3a8b0800000000000000
+      internalID: -5142018243244422929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e683216659afa0800000000000000
+      internalID: -5789000870800203512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_45
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6e695475983040800000000000000
+      internalID: 4627612944072339162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1987b55fd9334b70800000000000000
+      internalID: 8882006521483331869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 53
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af6db98a56f8cd0800000000000000
+      internalID: -2553710688852313532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 45
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46ad8bfd8b5b240800000000000000
+      internalID: 4806951448306410749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 532
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567838f9bf6f1ab50800000000000000
+      internalID: 6602830089275279205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e925d46c688e780800000000000000
+      internalID: -8653518497733501381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94841723acc9730800000000000000
+      internalID: 4007300086450637310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08deee350bcb9bc50800000000000000
+      internalID: 6681578987689274752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31fd38e96551880800000000000000
+      internalID: -8640905071223172106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 26
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abab501c0aa1d600800000000000000
+      internalID: 491360803150867369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907d5068fb4151e80800000000000000
+      internalID: -8208631932993022199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc5aaae1c81daa0800000000000000
+      internalID: -6137970753789375472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9b4dd0fd31a6e40800000000000000
+      internalID: 5650350531220388297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7257337c93e29ac0800000000000000
+      internalID: -3849764470360944006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1df6c36d3305810800000000000000
+      internalID: 1751957250277102037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_60
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 26
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f19d378c580d960800000000000000
+      internalID: 7624741265121812225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771bc3e196ed39b50800000000000000
+      internalID: 6598862422088135031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 26
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398b8499a0b7d2a0800000000000000
+      internalID: -6712702477184300752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_63
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 23
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3654acc3424222180800000000000000
+      internalID: -9141704555551373981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cc3fe3d43bf080800000000000000
+      internalID: -9152663732843920653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea06d262dce8f20800000000000000
+      internalID: 3426901930329288215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a7da07c9149430800000000000000
+      internalID: 3788681529196519994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1457106a1f522120800000000000000
+      internalID: 2387575319345714205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c281f31846091250800000000000000
+      internalID: 5915766492169863880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_69
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eefb28b6e717ad0800000000000000
+      internalID: -2706242900852740585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_70
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 23
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937cf8e9a2606990800000000000000
+      internalID: -7394802106244500585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_71
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 23
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0962ccd01d45b20800000000000000
+      internalID: 3122350298864455931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024200e86f37911c0800000000000000
+      internalID: -4532464047190170592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 26
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6090670ca44cba460800000000000000
+      internalID: 7254107450145900806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f6cf2797e6c0fe0800000000000000
+      internalID: -1221479931025002738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_75
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 26
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a77e384628ed70800000000000000
+      internalID: 9072543541065394681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2b6b5556fa2ca90800000000000000
+      internalID: -7295075596622187786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_77
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38993e7782de5e3b0800000000000000
+      internalID: -5483716213187831421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 26
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f18716ec4f1570800000000000000
+      internalID: 8439548777836181733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_79
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db22c147574516a0800000000000000
+      internalID: -6479194048811619376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde2d6f796a061750800000000000000
+      internalID: 6275214579013070557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_81
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de354b04bd0835f0800000000000000
+      internalID: -776855868787048749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_82
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 26
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a197ca9570471c0800000000000000
+      internalID: -4506969245363922294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_83
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 26
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2958d557fcef90800000000000000
+      internalID: -6922886579101291362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f0b252bc0b7460800000000000000
+      internalID: 7240394785959244493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc4b3e6797e63e20800000000000000
+      internalID: 3330103612062518457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_86
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f78e17947a2c6e50800000000000000
+      internalID: 6803859817289910259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e404442ce7bbf00800000000000000
+      internalID: 1133639104047631964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ee05dc9fa795dc0800000000000000
+      internalID: -3649750809696997883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_89
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcdaa689507905e0800000000000000
+      internalID: -1942898234419913507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec2faf4451533520800000000000000
+      internalID: 2680575625771560164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_91
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf910e72b8a9930800000000000000
+      internalID: 4150783009955117985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda33c03151b4490800000000000000
+      internalID: -7761086361289642551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7ef50c651a0eb0800000000000000
+      internalID: -4752962903034922395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e94e8e73984eb60800000000000000
+      internalID: 7774489729971822124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_95
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f21214f2da436ad0800000000000000
+      internalID: -2710240280848493835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_96
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359078bae7541060800000000000000
+      internalID: 6923255192803644733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b4207a84a9acd70800000000000000
+      internalID: 9064226836866812782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc4c4e9de3940400800000000000000
+      internalID: 289518924830887152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38925f8ececc359e0800000000000000
+      internalID: -1633736921912628861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82a30ad79229600800000000000000
+      internalID: 473486530363140330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_101
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e20e87c0ad00100800000000000000
+      internalID: 72297341140348432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa5151322cfc170800000000000000
+      internalID: 8200986902398348031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_103
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0624898fcde8b5770800000000000000
+      internalID: 8600624993108771424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182d25dc96cfecb0800000000000000
+      internalID: -4832425498251548650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abab695b5c4e5a80800000000000000
+      internalID: -8476253493438731353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_106
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250d6595e50d11c0800000000000000
+      internalID: -4531459166452251348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Contra ReBirth - Explosions_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 9
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5046ca4bbbeb12d70800000000000000
+      internalID: 9016697642371802117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
