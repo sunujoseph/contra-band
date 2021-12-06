@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Enemy
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -15,10 +17,10 @@ TagManager:
   - Ground
   - Player
   - OneWayPlatform
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - EnemyBullet
+  - 'Player '
+  - PlayerBullet
   - 
   - 
   - 
