@@ -56,10 +56,23 @@ public class PlayerControl : MonoBehaviour
             {
                 Shoot();
             }
+
+
+        // check if mid air and have fallen through platform
+        if (isGrounded == false && gameObject.layer != 7)
+        {
+            gameObject.layer = 7;
+            isGrounded = true;
+        }
+
+        // fall through platforms
+        if (isGrounded == true && Input.GetKey(KeyCode.S))
+        {
+            gameObject.layer = 8;
+            isGrounded = false;
+        }
+
         
-
-
-
 
     }
 
