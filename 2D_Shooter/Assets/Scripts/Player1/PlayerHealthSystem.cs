@@ -19,6 +19,7 @@ public class PlayerHealthSystem : MonoBehaviour
     {
         if (Input.GetKeyUp(KeyCode.P))
         {
+            currentHealth -= 1;
             switch (currentHealth)
             {
                 case 3:
