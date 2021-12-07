@@ -9,7 +9,6 @@ public class PlayerHealthSystem : MonoBehaviour
 
     public GameObject HP1, HP2, HP3;
 
-    GameObject healthBar;
     void Start()
     {
         currentHealth = maxHealth;
